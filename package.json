@@ -1,0 +1,22 @@
+{
+  "name": "tiddly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadimBrodsky/tiddly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadimBrodsky/tiddly/issues"
+  },
+  "homepage": "https://github.com/VadimBrodsky/tiddly#readme",
+  "dependencies": {
+    "tiddlywiki": "5.2.2"
+  }
+}
