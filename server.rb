@@ -83,7 +83,7 @@ trap "INT" do
    server.shutdown
 end
 
-unless Dir.exists? options[:backup]
+unless Dir.exist? options[:backup]
    Dir.mkdir options[:backup]
 end
 
